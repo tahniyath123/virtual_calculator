@@ -50,11 +50,11 @@ pip install streamlit_extras
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Apple-Inspired-AI-Calculator.git```
-2. Install the required packages: ```pip install -r requirements.txt```
+1. Clone the repository
+2. Install the required packages
 3. Add your Google API key to the `.env` file.
 4. Run the Streamlit app: ```streamlit run app.py```
-5. Access the app in your browser at ```http://localhost:8501```
+5. Access the app in your browser at 
 
 <br />
 
@@ -103,7 +103,6 @@ To use this project, follow these steps:
 
    - **Real-Time Interaction:** The Streamlit application provides real-time feedback and updates, ensuring that users can see their drawings and results immediately. This dynamic interface enhances the overall user experience, making it intuitive and efficient to use the AI-powered calculator.
 
-🎬 Project Demo Video: [https://youtu.be/HXFBbLOpn6I](https://youtu.be/HXFBbLOpn6I)
 
 
 #### References:
