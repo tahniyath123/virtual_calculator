@@ -54,7 +54,7 @@ To use this project, follow these steps:
 2. Install the required packages
 3. Add your Google API key to the `.env` file
 4. Run the Streamlit app: ```streamlit run app.py```
-5. Access the app in your browser at ```http://localhost:8501```
+5. Access the app in your browser 
 
 <br />
 
