@@ -1,8 +1,8 @@
-# Apple-Inspired AI Calculator using Computer Vision and GenAI
+# Virtual Calculator
 
 **Introduction**
 
-The Apple-Inspired AI Calculator is an advanced project designed to tackle mathematical problems using cutting-edge technology. By leveraging Computer Vision through OpenCV and Generative AI via Google's Gemini AI, this calculator allows users to draw mathematical expressions directly on the screen. The AI model interprets these visual inputs to deliver accurate and detailed solutions, making complex calculations intuitive and accessible. Inspired by the functionality of the Apple iPad calculator, this project enhances user experience with sophisticated AI capabilities, providing both precision and ease of use.
+The AI Calculator is an advanced project designed to tackle mathematical problems using cutting-edge technology. By leveraging Computer Vision through OpenCV and Generative AI via Google's Gemini AI, this calculator allows users to draw mathematical expressions directly on the screen. The AI model interprets these visual inputs to deliver accurate and detailed solutions, making complex calculations intuitive and accessible. Inspired by the functionality of the Apple iPad calculator, this project enhances user experience with sophisticated AI capabilities, providing both precision and ease of use.
 
 <br />
 
@@ -50,9 +50,9 @@ pip install streamlit_extras
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Apple-Inspired-AI-Calculator.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-3. Add your Google API key to the `.env` file.
+1. Clone the repository
+2. Install the required packages
+3. Add your Google API key to the `.env` file
 4. Run the Streamlit app: ```streamlit run app.py```
 5. Access the app in your browser at ```http://localhost:8501```
 
@@ -103,8 +103,6 @@ To use this project, follow these steps:
 
    - **Real-Time Interaction:** The Streamlit application provides real-time feedback and updates, ensuring that users can see their drawings and results immediately. This dynamic interface enhances the overall user experience, making it intuitive and efficient to use the AI-powered calculator.
 
-🎬 Project Demo Video: [https://youtu.be/HXFBbLOpn6I](https://youtu.be/HXFBbLOpn6I)
-
 
 #### References:
 
@@ -130,9 +128,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+📧 Email: tahniyathfathima491@gmail.com
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
